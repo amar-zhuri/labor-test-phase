@@ -23,7 +23,7 @@ trackWebVitals();
 
 // Initialize Google Analytics
 if (import.meta.env.PROD) {
-  initializeGA('G-XXXXXXXXXX'); // Replace with your actual Google Analytics 4 measurement ID
+   initializeGA('G-EJFS5Z9CSJ');
 }
 
 createRoot(document.getElementById("root")!).render(<App />);
