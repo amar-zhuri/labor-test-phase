@@ -23,7 +23,7 @@ trackWebVitals();
 
 // Initialize Google Analytics
 if (import.meta.env.PROD) {
-   initializeGA('G-EJFS5Z9CSJ');
+   initializeGA('G-3ENL50W43R');
 }
 
 createRoot(document.getElementById("root")!).render(<App />);
