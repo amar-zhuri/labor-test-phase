@@ -1,0 +1,35 @@
+# Robots.txt for laboratorilabor.com
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Sitemap location
+Sitemap: https://laboratorilabor.com/sitemap.xml
+
+# Block access to development files
+Disallow: /*.json$
+Disallow: /src/
+Disallow: /*.tsx$
+Disallow: /*.ts$
+Disallow: /.git/
+Disallow: /node_modules/
