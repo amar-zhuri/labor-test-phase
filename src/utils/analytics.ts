@@ -29,7 +29,7 @@ export const initializeGA = (measurementId: string) => {
 // Track page views
 export const trackPageView = (page_path: string, page_title?: string) => {
   if (typeof window !== 'undefined' && window.gtag) {
-    window.gtag('config', 'GA_MEASUREMENT_ID', {
+    window.gtag('config', 'G-EJFS5Z9CSJ', {
       page_path,
       page_title: page_title || document.title,
     });
