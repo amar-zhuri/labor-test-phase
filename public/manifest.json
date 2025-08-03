@@ -1,0 +1,38 @@
+{
+  "name": "Laboratori Labor - Prizren",
+  "short_name": "Labor Lab",
+  "description": "Analiza profesionale të gjakut dhe shërbime mjekësore në Prizren",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/lovable-uploads/727d0262-bffe-48f7-980b-ed695492237f.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lovable-uploads/727d0262-bffe-48f7-980b-ed695492237f.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["medical", "health", "laboratory"],
+  "lang": "sq",
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "iarc_rating_id": "",
+  "dir": "ltr"
+}
