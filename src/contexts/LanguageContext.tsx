@@ -32,7 +32,7 @@ const translations = {
     'hero.address': 'Gjeravica 30, Prizren 20000',
     'hero.hours': 'Hën-Premte 07:00-16:00 | Sht 07:00-13:00',
     'hero.hours.mobile': '07:00-16:00 (H-P) | 07:00-13:00 (Sht)',
-    'hero.contact': 'Kontaktoni Tash',
+    'hero.contact': 'Kontaktoni Tani',
     'hero.services': 'Shërbimet Tona',
     'hero.results247': 'Rezultatet elektronike 24/7 - Lexoni rezultatet tuaja kudo dhe kurdo',
     
